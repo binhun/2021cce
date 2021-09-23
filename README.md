@@ -1,6 +1,6 @@
 # 2021cce
 這是我在資傳一甲的程式專案倉庫
-# week 1
+## week 1
 ```c
 #include<stdio.h>
 int main()
@@ -8,4 +8,4 @@ int main()
     printf("Hello World\n");
 }
 ```
-# week 2
+## week 2
